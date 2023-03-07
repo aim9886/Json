@@ -1,0 +1,16 @@
+.mainBlock{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.mainBlock > div{
+    width: 250px;
+}
+
+.mainBlock > center > div > img{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}

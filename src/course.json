@@ -1,0 +1,43 @@
+[
+    {
+        "course_name" : "JAVA FULL STACK" ,
+        "trainer_name" : "SHANKAR SIR" ,
+        "duration" : "3 MONTHS" ,
+        "photo" : "https://yt3.googleusercontent.com/ytc/AL5GRJUdubYYR51Ei6qhIzlbzI25CGzcj5DpfS50ZV5ebg=s900-c-k-c0x00ffffff-no-rj" ,
+        "languages" : [
+            "CoreJava",
+            "Sql",
+            "WebTech",
+            "JDBC",
+            "Servlets"
+        ]
+    },
+
+    {
+        "course_name" : "MERN STACK" ,
+        "trainer_name" : "UMA SHANKAR SIR" ,
+        "duration" : "4 MONTHS" ,
+        "photo" : "https://w0.peakpx.com/wallpaper/483/391/HD-wallpaper-vijay-actor-bigil-fans-kerala-kollywood-master-tamil-thalapathy-theri.jpg" ,
+        "languages" : [
+            "React",
+            "Node",
+            "Express",
+            "MongoDB",
+            "JS"
+        ]
+    },
+
+    {
+        "course_name" : "CHOMBU HALF STACK" ,
+        "trainer_name" : "RAHUL SIR" ,
+        "duration" : "5 MONTHS" ,
+        "photo" : "https://5.imimg.com/data5/NF/MU/CW/SELLER-36746185/6c15436e-2774-4f55-a6bc-8d75000ce7d1-500x500.jpg" ,
+        "languages" : [
+            "MarkerOnly",
+            "Ohhyes",
+            "Nanamakla",
+            "Rapper",
+            "Rich"
+        ]
+    }
+]
